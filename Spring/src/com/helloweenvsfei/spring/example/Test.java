@@ -10,6 +10,7 @@ public class Test {
 		ServiceExample service =new ServiceExample();
 		
 		service.service(name);
+		System.out.println("1231");
 
 	}
 
