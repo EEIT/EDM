@@ -60,7 +60,7 @@ import java.io.*;
 import java.sql.*;
 public class EDMTableDataWithImageReset {
    public static final String UTF8_BOM = "\uFEFF";  // 定義 UTF-8的BOM字元 
-   
+   //test
    public static void main(String args[]) {
       Connection con;
       PreparedStatement pstmt;
